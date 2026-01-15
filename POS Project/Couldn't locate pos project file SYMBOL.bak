@@ -102,7 +102,7 @@
 			(pin input line
 				(at -2.54 -12.7 0)
 				(length 2.54)
-				(name "GNd"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -226,7 +226,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -45.72 0)
+				(at -2.54 -43.18 0)
 				(length 2.54)
 				(name "RESET"
 					(effects
@@ -244,7 +244,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -48.26 0)
+				(at -2.54 -48.26 0)
 				(length 2.54)
 				(name "TXD"
 					(effects
@@ -262,7 +262,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -50.8 0)
+				(at -2.54 -50.8 0)
 				(length 2.54)
 				(name "RXD"
 					(effects
@@ -280,7 +280,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -53.34 0)
+				(at -2.54 -53.34 0)
 				(length 2.54)
 				(name "CTS"
 					(effects
@@ -298,7 +298,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -55.88 0)
+				(at -2.54 -55.88 0)
 				(length 2.54)
 				(name "RTS"
 					(effects
@@ -316,7 +316,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -58.42 0)
+				(at -2.54 -58.42 0)
 				(length 2.54)
 				(name "RI"
 					(effects
@@ -334,7 +334,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -60.96 0)
+				(at -2.54 -60.96 0)
 				(length 2.54)
 				(name "DCD"
 					(effects
@@ -352,7 +352,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -63.5 0)
+				(at -2.54 -63.5 0)
 				(length 2.54)
 				(name "DTR"
 					(effects
@@ -370,7 +370,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -67.31 0)
+				(at -2.54 -67.31 0)
 				(length 2.54)
 				(name "USIM_DATA"
 					(effects
@@ -388,7 +388,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -71.12 0)
+				(at -2.54 -71.12 0)
 				(length 2.54)
 				(name "USIM_CLK"
 					(effects
@@ -406,7 +406,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -73.66 0)
+				(at -2.54 -73.66 0)
 				(length 2.54)
 				(name "USIM_RST"
 					(effects
@@ -424,7 +424,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -76.2 0)
+				(at -2.54 -76.2 0)
 				(length 2.54)
 				(name "USIM_VDD"
 					(effects
@@ -442,7 +442,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -81.28 0)
+				(at -2.54 -81.28 0)
 				(length 2.54)
 				(name "SD_DATA1"
 					(effects
@@ -460,7 +460,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -83.82 0)
+				(at -2.54 -83.82 0)
 				(length 2.54)
 				(name "SD_DATA2"
 					(effects
@@ -478,7 +478,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -86.36 0)
+				(at -2.54 -86.36 0)
 				(length 2.54)
 				(name "SD_CLK"
 					(effects
@@ -496,7 +496,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -88.9 0)
+				(at -2.54 -88.9 0)
 				(length 2.54)
 				(name "SD_DATA3"
 					(effects
@@ -514,7 +514,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -91.44 0)
+				(at -2.54 -91.44 0)
 				(length 2.54)
 				(name "SD_DATA0"
 					(effects
@@ -532,7 +532,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -93.98 0)
+				(at -2.54 -93.98 0)
 				(length 2.54)
 				(name "SD_CMD"
 					(effects
@@ -550,7 +550,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -96.52 0)
+				(at -2.54 -96.52 0)
 				(length 2.54)
 				(name "VDD_EXT"
 					(effects
@@ -568,7 +568,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -104.14 0)
+				(at -2.54 -104.14 0)
 				(length 2.54)
 				(name "STATUS"
 					(effects
@@ -586,7 +586,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -106.68 0)
+				(at -2.54 -106.68 0)
 				(length 2.54)
 				(name "GPIO41"
 					(effects
@@ -604,7 +604,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -109.22 0)
+				(at -2.54 -109.22 0)
 				(length 2.54)
 				(name "USIM_DET"
 					(effects
@@ -622,7 +622,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -111.76 0)
+				(at -2.54 -111.76 0)
 				(length 2.54)
 				(name "GPIO43"
 					(effects
@@ -640,9 +640,9 @@
 				)
 			)
 			(pin input line
-				(at 0 -114.3 0)
+				(at -2.54 -114.3 0)
 				(length 2.54)
-				(name "SDI_EXT"
+				(name "SDI_DET"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -658,7 +658,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -119.38 0)
+				(at -2.54 -119.38 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -676,7 +676,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -121.92 0)
+				(at -2.54 -121.92 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -694,7 +694,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -124.46 0)
+				(at -2.54 -124.46 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -712,7 +712,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -127 0)
+				(at -2.54 -127 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -730,7 +730,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -129.54 0)
+				(at -2.54 -129.54 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -748,7 +748,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -132.08 0)
+				(at -2.54 -132.08 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -766,7 +766,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -134.62 0)
+				(at -2.54 -134.62 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -784,7 +784,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -137.16 0)
+				(at -2.54 -137.16 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -802,7 +802,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -139.7 0)
+				(at -2.54 -139.7 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -820,7 +820,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -142.24 0)
+				(at -2.54 -142.24 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -838,7 +838,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -147.32 0)
+				(at -2.54 -147.32 0)
 				(length 2.54)
 				(name "COEX1"
 					(effects
@@ -856,7 +856,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -149.86 0)
+				(at -2.54 -149.86 0)
 				(length 2.54)
 				(name "COEX2"
 					(effects
@@ -874,9 +874,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -152.4 0)
+				(at -2.54 -152.4 0)
 				(length 2.54)
-				(name "COEX"
+				(name "COEX3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -892,7 +892,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -5.08 0)
+				(at 48.26 -6.35 180)
 				(length 2.54)
 				(name "GNSS_ANT"
 					(effects
@@ -910,7 +910,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -10.16 0)
+				(at 48.26 -13.97 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -928,7 +928,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -12.7 0)
+				(at 48.26 -16.51 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -946,7 +946,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -15.24 0)
+				(at 48.26 -19.05 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -964,25 +964,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -20.32 0)
-				(length 2.54)
-				(name "AUX_ANT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "59"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 45.72 -24.13 0)
+				(at 48.26 -30.48 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1000,9 +982,9 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -29.21 0)
+				(at 48.26 -35.56 180)
 				(length 2.54)
-				(name "NET_LED"
+				(name "NETLIGHT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1018,7 +1000,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -40.64 0)
+				(at 48.26 -39.37 180)
 				(length 2.54)
 				(name "FLIGHTMODE"
 					(effects
@@ -1036,7 +1018,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 45.72 -44.45 0)
+				(at 48.26 -44.45 180)
 				(length 2.54)
 				(name "USB_VBUS"
 					(effects
@@ -1054,9 +1036,9 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -46.99 0)
+				(at 48.26 -46.99 180)
 				(length 2.54)
-				(name "USBD_N"
+				(name "USB_DN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1072,9 +1054,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -49.53 0)
+				(at 48.26 -49.53 180)
 				(length 2.54)
-				(name "USBD_P"
+				(name "USB_DP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1090,7 +1072,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -55.88 0)
+				(at 48.26 -55.88 180)
 				(length 2.54)
 				(name "SDIO_DATA1"
 					(effects
@@ -1108,7 +1090,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -58.42 0)
+				(at 48.26 -58.42 180)
 				(length 2.54)
 				(name "SDIO_DATA2"
 					(effects
@@ -1126,7 +1108,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -60.96 0)
+				(at 48.26 -60.96 180)
 				(length 2.54)
 				(name "SDIO_CMD"
 					(effects
@@ -1144,7 +1126,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -63.5 0)
+				(at 48.26 -63.5 180)
 				(length 2.54)
 				(name "SDIO_DATA0"
 					(effects
@@ -1162,7 +1144,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -66.04 0)
+				(at 48.26 -66.04 180)
 				(length 2.54)
 				(name "SDIO_DATA3"
 					(effects
@@ -1180,7 +1162,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -68.58 0)
+				(at 48.26 -68.58 180)
 				(length 2.54)
 				(name "SDIO_CLK"
 					(effects
@@ -1198,7 +1180,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -71.12 0)
+				(at 48.26 -71.12 180)
 				(length 2.54)
 				(name "GPIO3"
 					(effects
@@ -1216,7 +1198,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -73.66 0)
+				(at 48.26 -73.66 180)
 				(length 2.54)
 				(name "GPIO6"
 					(effects
@@ -1234,7 +1216,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -76.2 0)
+				(at 48.26 -76.2 180)
 				(length 2.54)
 				(name "HSIC_STROBE"
 					(effects
@@ -1252,7 +1234,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -78.74 0)
+				(at 48.26 -78.74 180)
 				(length 2.54)
 				(name "HSIC_DATA"
 					(effects
@@ -1270,7 +1252,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -81.28 0)
+				(at 48.26 -81.28 180)
 				(length 2.54)
 				(name "GPIO77"
 					(effects
@@ -1288,7 +1270,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -85.09 0)
+				(at 48.26 -86.36 180)
 				(length 2.54)
 				(name "PCM_IN"
 					(effects
@@ -1306,7 +1288,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -87.63 0)
+				(at 48.26 -88.9 180)
 				(length 2.54)
 				(name "PCM_SYNC"
 					(effects
@@ -1324,7 +1306,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -90.17 0)
+				(at 48.26 -91.44 180)
 				(length 2.54)
 				(name "PCM_OUT"
 					(effects
@@ -1342,7 +1324,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -92.71 0)
+				(at 48.26 -93.98 180)
 				(length 2.54)
 				(name "PCM_CLK"
 					(effects
@@ -1351,7 +1333,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "76"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1360,9 +1342,9 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -96.52 0)
+				(at 48.26 -99.06 180)
 				(length 2.54)
-				(name "PCM_CLK"
+				(name "SPI_CLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1378,7 +1360,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -99.06 0)
+				(at 48.26 -101.6 180)
 				(length 2.54)
 				(name "SPI_MISO"
 					(effects
@@ -1396,7 +1378,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -101.6 0)
+				(at 48.26 -104.14 180)
 				(length 2.54)
 				(name "SPI_MOSI"
 					(effects
@@ -1414,7 +1396,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -104.14 0)
+				(at 48.26 -106.68 180)
 				(length 2.54)
 				(name "SPI_CS"
 					(effects
@@ -1432,7 +1414,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -106.68 0)
+				(at 48.26 -109.22 180)
 				(length 2.54)
 				(name "ISINK"
 					(effects
@@ -1450,7 +1432,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -113.03 0)
+				(at 48.26 -114.3 180)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -1468,7 +1450,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 45.72 -115.57 0)
+				(at 48.26 -116.84 180)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -1486,7 +1468,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -121.92 0)
+				(at 48.26 -121.92 180)
 				(length 2.54)
 				(name "ADC1"
 					(effects
@@ -1504,7 +1486,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -124.46 0)
+				(at 48.26 -124.46 180)
 				(length 2.54)
 				(name "ADC2"
 					(effects
@@ -1522,7 +1504,7 @@
 				)
 			)
 			(pin power_in line
-				(at 45.72 -133.35 0)
+				(at 48.26 -129.54 180)
 				(length 2.54)
 				(name "VBAT"
 					(effects
@@ -1540,7 +1522,7 @@
 				)
 			)
 			(pin power_in line
-				(at 45.72 -135.89 0)
+				(at 48.26 -132.08 180)
 				(length 2.54)
 				(name "VBAT"
 					(effects
@@ -1558,7 +1540,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -142.24 0)
+				(at 48.26 -138.43 180)
 				(length 2.54)
 				(name "VDD_1V8"
 					(effects
@@ -1576,7 +1558,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -144.78 0)
+				(at 48.26 -140.97 180)
 				(length 2.54)
 				(name "USB_ID"
 					(effects
@@ -1594,7 +1576,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 45.72 -147.32 0)
+				(at 48.26 -143.51 180)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -1612,7 +1594,7 @@
 				)
 			)
 			(pin input line
-				(at 45.72 -152.4 0)
+				(at 48.26 -152.4 180)
 				(length 2.54)
 				(name "BOOT_CFG0"
 					(effects
@@ -1622,6 +1604,24 @@
 					)
 				)
 				(number "85"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 49.53 -25.4 180)
+				(length 2.54)
+				(name "AUX_ANT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "59"
 					(effects
 						(font
 							(size 1.27 1.27)
