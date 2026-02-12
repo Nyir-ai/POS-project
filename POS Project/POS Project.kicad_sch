@@ -8897,7 +8897,7 @@
 		)
 		(uuid "003a8ea2-05a1-451f-bba4-d105015bc664")
 	)
-	(label "SIM1 VCC"
+	(label "CLK EN"
 		(at 200.66 144.78 0)
 		(effects
 			(font
@@ -8947,7 +8947,7 @@
 		)
 		(uuid "07804fa0-9a6b-4a4f-b90e-bae6e1b73af2")
 	)
-	(label "DATA EN"
+	(label "RST EN"
 		(at 200.66 149.86 0)
 		(effects
 			(font
@@ -8967,7 +8967,7 @@
 		)
 		(uuid "1219d36d-f97b-4039-9e6e-dc3e8e5960f1")
 	)
-	(label "CLK EN"
+	(label "DATA EN"
 		(at 167.64 144.78 0)
 		(effects
 			(font
@@ -9056,6 +9056,16 @@
 			(justify left bottom)
 		)
 		(uuid "34d36dd6-2a5a-40ca-8344-b4267a0d2ce2")
+	)
+	(label "VCC_3V3"
+		(at 181.61 215.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3650571a-d186-4ddc-b81e-f9c39a885a72")
 	)
 	(label "USB VBUS"
 		(at 83.82 134.62 0)
@@ -9317,7 +9327,7 @@
 		)
 		(uuid "e4df85d8-f47e-493f-b157-e4b47d85d8d1")
 	)
-	(label "RST EN"
+	(label "SIM1 VCC"
 		(at 167.64 149.86 0)
 		(effects
 			(font
@@ -9734,7 +9744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 307.34 66.04 0)
 			(effects
 				(font
@@ -10767,7 +10777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SMN-303:SIM-SMD_SMN-303"
 			(at 184.15 113.03 0)
 			(effects
 				(font
@@ -11763,7 +11773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 53.34 20.32 0)
 			(effects
 				(font
@@ -14095,7 +14105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 78.74 20.32 0)
 			(effects
 				(font
