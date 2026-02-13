@@ -8957,6 +8957,16 @@
 		)
 		(uuid "106dd5b1-b120-4949-ae18-f09f372c6a90")
 	)
+	(label "GPIO20"
+		(at 372.11 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11474f1d-df00-49d1-8ff0-1beafdc4a143")
+	)
 	(label "NET LED"
 		(at 119.38 149.86 90)
 		(effects
@@ -9296,6 +9306,16 @@
 			(justify left bottom)
 		)
 		(uuid "d0d9ed9b-bf50-41e7-b9a6-5fdee6bb516c")
+	)
+	(label "GPIO19"
+		(at 372.11 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d731f116-cd35-4bb6-96f7-87769011413a")
 	)
 	(label "RST EN"
 		(at 162.56 113.03 0)
